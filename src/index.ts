@@ -37,6 +37,7 @@ app.init = () => {
    // - prisijungti
    // - pairuosti struktura
    // - surassyti pradinius duomenis
+   // Paleisti serverio logika
   server.init();
    // laike pasikartojantys procesai:
    // - issivalyti nereikalingus failus/info
